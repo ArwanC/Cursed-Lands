@@ -3,7 +3,7 @@ A 2D action adventure Flash game made with Stencyl
 
 ![Cursed Lands - Animated gif demo](Docs/gameplay.webp)
 
-The game style is greatly inspired by Sinjid. The drawings are made in Photoshop and the animations in Animate.
+The game style is greatly inspired by Sinjid. The drawings are made in Adobe Photoshop and the animations in Adobe Animate.
 
 
 **Map elements**
