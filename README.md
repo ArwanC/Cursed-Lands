@@ -16,7 +16,7 @@ Casting frame 1            |           Casting frame 10          |         Jumpi
 :-------------------------:|:-------------------------:|:------------------------:
 ![f1](Docs/Casting_Animation0001.png) | ![f10](Docs/Casting_Animation0010.png) | ![f13](Docs/Untitled-30013.png)
 
-##Enemy**
+**Enemy**
 Attacking frame 5            |           Attacking frame 14          |         Attacking frame 25
 :-------------------------:|:-------------------------:|:------------------------:
 ![f1](Docs/enemy_attack_10005.png) | ![f10](Docs/enemy_attack_10014.png) | ![f13](Docs/enemy_attack_10025.png)
